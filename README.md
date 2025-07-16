@@ -162,7 +162,7 @@ graph LR
 <a href="https://github.com/The404Studios">
   <img src="https://img.shields.io/badge/GitHub-Follow-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=00ff00">
 </a>
-<a href="mailto:contact@example.com">
+<a href="mailto:the404studios@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-ff0000?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=000000">
 </a>
 <a href="https://ko-fi.com/The404Studios">
