@@ -45,20 +45,28 @@ $ cat /etc/interests
 ```json
 {
   "languages": {
-    "low_level": ["C++", "C", "Rust", "Assembly"],
-    "high_level": ["C#", "Go", "Python", "TypeScript"],
-    "scripting": ["Bash", "PowerShell", "Lua"]
+    "low_level": ["C++", "C", "Rust", "Assembly", "Fortran", "Ada", "D"],
+    "high_level": ["C#", "Go", "Python", "TypeScript", "Java", "Swift", "Kotlin", "Ruby", "PHP", "JavaScript"],
+    "scripting": ["Bash", "PowerShell", "Lua", "Perl", "Python", "JavaScript", "Ruby", "Shell"]
   },
   "specializations": {
-    "networking": ["TCP/IP", "UDP", "WebRTC", "P2P", "NAT Traversal"],
-    "security": ["Packet Analysis", "Reverse Engineering", "Cryptography"],
-    "protocols": ["BitTorrent", "IPFS", "Tor", "Custom P2P"],
-    "game_dev": ["DLL Integration", "Memory Management", "Network Architecture"]
+    "networking": ["TCP/IP", "UDP", "WebRTC", "P2P", "NAT Traversal", "HTTP/HTTPS", "DNS", "MQTT", "gRPC", "GraphQL", "SSL/TLS", "Websockets"],
+    "security": ["Packet Analysis", "Reverse Engineering", "Cryptography", "Penetration Testing", "Vulnerability Assessment", "Secure Coding", "Malware Analysis", "Forensics", "Zero Trust"],
+    "protocols": ["BitTorrent", "IPFS", "Tor", "Custom P2P", "HTTP/2", "HTTP/3", "WebSockets", "MQTT", "AMQP", "OAuth", "OpenID Connect"],
+    "game_dev": ["DLL Integration", "Memory Management", "Network Architecture", "Physics Engines", "Graphics Programming", "AI Systems", "Game Engine Architecture", "Shader Programming"],
+    "cloud": ["AWS", "Azure", "GCP", "Kubernetes", "Terraform", "CloudFormation", "Serverless", "Microservices", "Multi-cloud", "IaC"],
+    "mobile": ["Android", "iOS", "React Native", "Flutter", "Xamarin", "SwiftUI", "Jetpack Compose", "Cordova"],
+    "web": ["React", "Angular", "Vue", "Next.js", "WebAssembly", "PWA", "SPA", "SSR", "JAMstack", "Web3"],
+    "database": ["SQL", "NoSQL", "Graph DBs", "Time Series", "Database Design", "PostgreSQL", "MongoDB", "Redis", "Cassandra", "DynamoDB"],
+    "ai_ml": ["TensorFlow", "PyTorch", "NLP", "Computer Vision", "Reinforcement Learning", "MLOps", "Feature Engineering", "Neural Networks"]
   },
   "tools": {
-    "analysis": ["Wireshark", "IDA Pro", "x64dbg", "Burp Suite"],
-    "development": ["VS Code", "Neovim", "GDB", "WinDbg"],
-    "virtualization": ["Docker", "QEMU", "VMware", "Proxmox"]
+    "analysis": ["Wireshark", "IDA Pro", "x64dbg", "Burp Suite", "Ghidra", "Binary Ninja", "Metasploit", "Nmap", "Fiddler", "Radare2"],
+    "development": ["VS Code", "Neovim", "GDB", "WinDbg", "Visual Studio", "CLion", "IntelliJ IDEA", "Eclipse", "Git", "GitHub", "GitLab"],
+    "virtualization": ["Docker", "QEMU", "VMware", "Proxmox", "Kubernetes", "Vagrant", "VirtualBox", "KVM", "LXC", "Hyper-V"],
+    "ci_cd": ["Jenkins", "GitHub Actions", "Travis CI", "CircleCI", "GitLab CI", "ArgoCD", "TeamCity", "Azure DevOps"],
+    "monitoring": ["Prometheus", "Grafana", "ELK Stack", "Datadog", "New Relic", "Nagios", "Zabbix", "Splunk", "SolarWinds"],
+    "testing": ["JUnit", "Selenium", "Jest", "Cypress", "Pytest", "Postman", "SoapUI", "LoadRunner", "Gatling", "K6"]
   }
 }
 ```
