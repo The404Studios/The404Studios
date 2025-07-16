@@ -159,13 +159,13 @@ graph LR
 
 <div align="center">
 
-<a href="https://github.com/fourzerofour">
+<a href="https://github.com/The404Studios">
   <img src="https://img.shields.io/badge/GitHub-Follow-00ff00?style=for-the-badge&logo=github&logoColor=black&labelColor=00ff00">
 </a>
 <a href="mailto:contact@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-ff0000?style=for-the-badge&logo=mail.ru&logoColor=white&labelColor=000000">
 </a>
-<a href="https://ko-fi.com/fourzerofour">
+<a href="https://ko-fi.com/The404Studios">
   <img src="https://img.shields.io/badge/Support-Projects-ffff00?style=for-the-badge&logo=ko-fi&logoColor=black&labelColor=ffff00">
 </a>
 
