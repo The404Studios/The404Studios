@@ -131,8 +131,8 @@ public class PacketInspection {
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fourzerofour&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fourzerofour&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=ff0000&currStreakLabel=00ff00" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=The404Studios&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" width="49%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=The404Studios&theme=dark&hide_border=true&background=000000&ring=00ff00&fire=ff0000&currStreakLabel=00ff00" width="49%">
 </div>
 
 ---
