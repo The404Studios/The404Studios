@@ -6,6 +6,8 @@
 <img src="https://img.shields.io/badge/FOCUS-DECENTRALIZATION-00ffff?style=for-the-badge&labelColor=000000">
 <img src="https://img.shields.io/badge/SECURITY-PRIORITY-ff0000?style=for-the-badge&labelColor=000000">
 
+Reach me at : fourzerofour@sverazombiesonline.com
+
 </div>
 
 ---
