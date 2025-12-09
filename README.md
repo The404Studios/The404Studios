@@ -34,7 +34,7 @@ $ cat /etc/interests
 |---------|--------|-------------|------|
 | **Kenshi Online** | `▓▓▓▓▓▓▓▓░░` 80% | Multiplayer implementation for single-player games | `C++/ASM` |
 | **APA Protocol** | `▓▓▓▓▓▓▓▓▓░` 95% | Advanced packet analysis framework | `C#/WinAPI` |
-| **Web4 Nexus** | `▓▓▓▓▓▓▓▓▓░░░` 70% | NAT traversal solution for P2P applications | `Rust/P2P` |
+| **Web3 Nexus** | `▓▓▓▓▓▓▓░░░` 70% | NAT traversal solution for P2P applications | `Rust/P2P` |
 | **YurtCord** | `▓▓▓▓▓▓░░░░` 60% | Decentralized messaging platform | `Go/WebRTC` |
 | **Puppeteer** | `▓▓▓▓▓▓▓▓▓▓` 100% | Browser automation for data collection | `JS/Chrome` |
 
